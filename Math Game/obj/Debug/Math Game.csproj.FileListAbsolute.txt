@@ -1,0 +1,9 @@
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\bin\Debug\Math Game.exe.config
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\bin\Debug\Math Game.exe
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\bin\Debug\Math Game.pdb
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math Game.csprojResolveAssemblyReference.cache
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math_Game.Form1.resources
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math_Game.Properties.Resources.resources
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math Game.csproj.GenerateResource.Cache
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math Game.exe
+c:\users\claveria\documents\visual studio 2012\Projects\Math Game\Math Game\obj\Debug\Math Game.pdb
